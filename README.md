@@ -3,7 +3,9 @@
 # Setup
 
 `pip install cairocffi`
+
 `pip install editdistance`
+
 `brew install cairo`
 
 # Training
@@ -12,7 +14,7 @@
 
 # Prediction
 
-`python3 predict.py``
+`python3 predict.py`
 
 # Original Work
 
